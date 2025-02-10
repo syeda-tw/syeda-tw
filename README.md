@@ -34,13 +34,15 @@ I believe in the power of collaboration and open source. Software development is
 
 I love connecting with fellow developers, tech enthusiasts, and anyone passionate about technology. Feel free to reach out via:
 
-- **Email:** [zehrataqwi@gmail.com](mailto:zehrataqwi@gmail.com)
+- **Email:** [zehrataqwi@gmail.com](mailto:zehrataqwi@gmail.com) – Let’s connect directly.
 
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/syedataqvi/)
+- **LinkedIn:** [Let’s talk tech & work](https://www.linkedin.com/in/syedataqvi/) – Professional insights & networking.
 
-- **X (Twitter):** [@syeda_tw](https://twitter.com/syeda_tw)
+- **X (Twitter):** [@syeda_tw](https://twitter.com/syd_code) – Quick thoughts & industry takes.
 
-- **Medium:** [My Medium Profile](https://medium.com/@syeda_taqvi)
+- **Medium:** [Read my insights](https://medium.com/@syeda_taqvi) – Articles on tech, freelancing & more.
+
+- **Threads:** [Casual tech & life updates](https://www.threads.net/@syd.code?hl=en) – Behind-the-scenes & everyday thoughts.  
 
 ---
 
