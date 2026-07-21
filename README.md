@@ -2,7 +2,7 @@
 
 # Hey, glad you're here :)
 
-I'm Syeda — a **Senior Frontend Engineer** and occasional indie developer.
+I'm Syeda — a **Senior Full-Stack Engineer** and occasional indie developer.
 
 > I like my coffee strong and my code clean, solid, and built to last.
 
@@ -14,7 +14,7 @@ As a developer, I enjoy converting ideas into interfaces and products that actua
 
 ---
 
-*Currently open to new frontend roles — don't hesitate to reach out :)*
+*Currently open to new full-stack roles — don't hesitate to reach out :)*
 
 ---
 
